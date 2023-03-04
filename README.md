@@ -1,1 +1,1 @@
-# Stochastic-analysis-by-Monte-Carlo-method
+# モンテカルロ法によるリアル・オプション分析（きんざい）のPython版
